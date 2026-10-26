@@ -1,0 +1,9 @@
+torch
+open_clip_torch
+huggingface_hub
+pyarrow
+numpy
+pandas
+pillow
+matplotlib
+tqdm
