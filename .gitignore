@@ -1,0 +1,9 @@
+data/
+img/
+outputs/
+figs/
+*.npy
+*.pt
+*.parquet
+*.csv
+.ipynb_checkpoints/
